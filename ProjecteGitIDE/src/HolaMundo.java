@@ -5,6 +5,7 @@ public class HolaMundo {
 		
 		System.out.println("Aquest és el meu projecte Java amb Eclipse i Git.");
 		System.out.println("Primera modificacio.");
+		System.out.println("Modificació des de fora del IDE.");
 
 	}
 
