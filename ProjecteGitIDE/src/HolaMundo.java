@@ -8,6 +8,7 @@ public class HolaMundo {
 		System.out.println("Modificació des de fora del IDE.");
 		System.out.println("Modificacio des de IDE a GitHub");
 		System.out.println("Modificacio des de GitHub a Eclipse");
+		System.out.println("Generarem un coflicte.");
 
 	}
 
