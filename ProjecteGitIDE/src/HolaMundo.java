@@ -3,10 +3,11 @@ public class HolaMundo {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Aquest és el meu projecte Java amb Eclipse i Git.");
+		System.out.println("Aquest Ã©s el meu projecte Java amb Eclipse i Git.");
 		System.out.println("Primera modificacio.");
-		System.out.println("Modificació des de fora del IDE.");
+		System.out.println("ModificaciÃ³ des de fora del IDE.");
 		System.out.println("Modificacio des de IDE a GitHub");
+		System.out.println("Modificacio des de GitHub a Eclipse");
 
 	}
 
